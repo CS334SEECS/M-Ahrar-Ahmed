@@ -1,5 +1,5 @@
 # M-Ahrar-Ahmed
-For CS-344 OSS lab 1 and lab 2.
+CS-344 lab 1+2.
 
 Licence Added
 I am from BESE-9B.
